@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    outline: none;
+}
+
+.completed {
+    color: green;
+    text-decoration: line-through;
+}
+
+table th, table td {
+    vertical-align: middle;
+}
+
+#task {
+    width: 100%;
+}
+
+button {
+    cursor: pointer;
+}
